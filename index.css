@@ -1,0 +1,146 @@
+.part1{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px 25px;
+}
+.try{
+    padding: 5px 40px;
+    border:none;
+    border-radius: 10px;
+}
+
+.button{
+    background-color: rgb(231, 33, 142);
+    padding: 10px 20px;
+    border-radius:10px ;
+    border: none;
+}
+
+section{
+    padding: 25px 25px;
+    display: flex;
+}
+.part1, .part2 {
+    flex-basis: 50%;
+}
+
+.part1 h1{
+    font-size:3.4em ;
+}
+
+.part1 p{
+    margin-top: 25px;
+    font-size: 20px;
+}
+
+.part1 button{
+    margin-top: 25px;
+}
+
+.part1{
+    margin-top: 80px;
+    padding: 10px;
+}
+
+header{
+    background-image:url(./Images/bg-hero-desktop.png
+    ) ;
+    background-repeat:no-repeat;
+}
+
+.Grow{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px 25px;
+    margin-top: 300px;
+    border: gainsboro 2px solid;
+    box-shadow: 0 0 10px 0 gainsboro;
+}
+
+.part3 h2{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.part3 p{
+    font-size: 20px;
+}
+
+.Flow{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px 25px;
+    border: gainsboro 2px solid;
+    margin-top: 20px;
+    box-shadow: 0 0 10px gainsboro;
+}
+
+.part6{
+    font-size:20px ;
+}
+
+.User{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px 25px;
+    border:gainsboro 2px solid;
+    margin-top: 20px;
+}
+
+.part7{
+    font-size:20px ;
+}
+
+.Ready{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-bottom: 20px;
+}
+
+.button2{
+    background-color: rgb(221, 9, 126);
+    padding: 20px 60px;
+    border-radius:10px ;
+    border: none;
+}
+
+.bottom{
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    background-color:rgb(252, 250, 250);
+    border-radius: 10px;
+    width: 30%;
+    box-shadow: 0 0 10px 0 gainsboro ;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    background-color:#00252e;
+}
+.location{
+    display: flex;
+}
+
+.phone{
+    display: flex;
+}
+
+.mail{
+    display: flex;
+}
+
+.copyright{
+    display: flex;
+    justify-content: flex-end;
+}
